@@ -1,0 +1,8 @@
+{
+  "name": "test_config",
+  "version": 1,
+  "settings": {
+    "enabled": true,
+    "values": [1, 2, 3, 4, 5]
+  }
+}

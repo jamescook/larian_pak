@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <header version="2" />
+    <region id="TestRegion">
+        <node id="root">
+            <attribute id="Name" value="TestMod" type="22" />
+            <attribute id="UUID" value="12345678-1234-1234-1234-123456789abc" type="22" />
+        </node>
+    </region>
+</save>

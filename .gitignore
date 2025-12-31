@@ -1,0 +1,26 @@
+# Bundler
+/.bundle/
+/vendor/bundle/
+Gemfile.lock
+
+# Testing
+/coverage/
+/tmp/
+
+# One-off scripts (fixture generators, benchmarks, debug)
+/script/
+bench_*.rb
+debug_*.rb
+
+# Sample game files for e2e testing (not committed due to copyright)
+/samples/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.vscode/
+
+# macOS
+.DS_Store
